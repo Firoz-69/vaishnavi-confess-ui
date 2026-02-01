@@ -66,8 +66,8 @@ const HomePage = () => {
         </h1>
 
         <p className="max-w-2xl text-sm md:text-base text-white/80 mb-12 tracking-wide leading-relaxed font-light">
-          Every moment with you feels like a beautiful forever. This little
-          space is just for us.
+          Naa unna virumbala, un mela aasai padala, nee azhaga iruka nu
+          nenaikala aana ithellam nadanthidumo nu bayama iruku ...
         </p>
 
         <button className="border border-white/50 px-8 py-3 text-sm tracking-[0.2em] uppercase hover:bg-white hover:text-black transition-all duration-300 rounded-sm font-light">

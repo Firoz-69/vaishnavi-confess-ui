@@ -63,8 +63,8 @@ const ConfessionLetter = () => {
                 A Letter From My Heart
               </h2>
               <p className="text-text-secondary text-lg font-light max-w-2xl mx-auto leading-relaxed">
-                I've poured my heart into these words. This is everything I've
-                wanted to say to you...
+                Yennaku propose yellam panna theriyadhu, munna pinna irundha
+                adjust paniko
               </p>
             </div>
 
