@@ -1,3 +1,4 @@
+import { BrowserRouter, Routes, Route, Navigate } from "react-router-dom";
 import AutoSlider from "./components/AutoSlider";
 import ConfessionLetter from "./components/ConfessionLetter";
 import Countdown from "./components/Countdown";
@@ -7,11 +8,11 @@ import MemoriesSection from "./components/Memoriessection";
 import ValentineCard from "./components/ValentineCard";
 import HomePage from "./pages/Home";
 
-const App = () => {
+// Home page with all components
+const Home = () => {
   return (
     <div>
       <HomePage />
-      <ValentineCard /> {/* ← Add here */}
       <Countdown />
       <MemoriesSection />
       <AutoSlider />
@@ -19,6 +20,18 @@ const App = () => {
       <Footer />
       <LoveMeter />
     </div>
+  );
+};
+
+const App = () => {
+  return (
+    <BrowserRouter>
+      <Routes>
+        <Route path="/" element={<ValentineCard />} />
+        <Route path="/home" element={<Home />} />
+        <Route path="*" element={<Navigate to="/" replace />} />
+      </Routes>
+    </BrowserRouter>
   );
 };
 

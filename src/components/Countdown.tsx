@@ -13,9 +13,9 @@ const Countdown = () => {
   useEffect(() => {
     const calculateTimeLeft = () => {
       // Valentine's Day 2025 - February 14, 2025
-      const valentinesDay = new Date("2026-02-14T00:00:00");
+      const valentinesDay = new Date("2025-06-14T00:00:00");
       const now = new Date();
-      const difference = valentinesDay.getTime() - now.getTime();
+      const difference = now.getTime() - valentinesDay.getTime();
 
       if (difference > 0) {
         setTimeLeft({
@@ -78,10 +78,10 @@ const Countdown = () => {
                   textShadow: "0 0 20px rgba(235, 95, 137, 0.3)",
                 }}
               >
-                Until Our Special Day
+                Our Days of Annoying & Loving You
               </h2>
               <p className="text-text-secondary text-lg font-light max-w-2xl mx-auto leading-relaxed">
-                Will You be My Kanmani ?
+                In every tomorrow… will you still choose me?
               </p>
             </div>
 
@@ -256,7 +256,7 @@ const Countdown = () => {
                 <div className="h-[1px] w-16 bg-gradient-to-l from-transparent to-sakura-500"></div>
               </div>
               <p className="text-sakura-600 text-xl font-romantic italic">
-                Can't wait to celebrate with you
+                Packing my heart for our next chapter.
               </p>
             </div>
           </>

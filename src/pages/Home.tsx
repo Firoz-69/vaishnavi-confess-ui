@@ -22,7 +22,7 @@ const HomePage = () => {
           />
         </h1>
 
-        <ul className="hidden md:flex gap-8 text-sm tracking-wide font-light">
+        {/* <ul className="hidden md:flex gap-8 text-sm tracking-wide font-light">
           <li className="hover:text-white/70 cursor-pointer transition-colors">
             Home
           </li>
@@ -35,7 +35,7 @@ const HomePage = () => {
           <li className="hover:text-white/70 cursor-pointer transition-colors">
             Contact Us
           </li>
-        </ul>
+        </ul> */}
 
         <div className="flex gap-4">
           <span className="cursor-pointer">📷</span>
@@ -45,7 +45,8 @@ const HomePage = () => {
       </nav>
 
       {/* Hero Content */}
-      <div className="relative z-10 flex h-full flex-col items-center justify-center text-center text-white px-6">
+      <div className="relative z-10 flex h-full flex-col items-center justify-center text-center text-white px-6 pb-24">
+        {" "}
         <h1
           className="
     font-hero
@@ -62,14 +63,11 @@ const HomePage = () => {
     `,
           }}
         >
-          Be..My Valentine's
+          Lets write our forever.
         </h1>
-
         <p className="max-w-2xl text-sm md:text-base text-white/80 mb-12 tracking-wide leading-relaxed font-light">
-          Naa unna virumbala, un mela aasai padala, nee azhaga iruka nu
-          nenaikala aana ithellam nadanthidumo nu bayama iruku ...
+          You are the bane of my existence… and the object of all my desires
         </p>
-
         <button className="border border-white/50 px-8 py-3 text-sm tracking-[0.2em] uppercase hover:bg-white hover:text-black transition-all duration-300 rounded-sm font-light">
           Love More
         </button>

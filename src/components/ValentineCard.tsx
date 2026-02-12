@@ -1,7 +1,9 @@
 /* eslint-disable react-hooks/purity */
 import React, { useState } from "react";
+import { useNavigate } from "react-router-dom";
 
 const ValentineCard = () => {
+  const navigate = useNavigate();
   const [noButtonPosition, setNoButtonPosition] = useState({ x: 0, y: 0 });
   const [noButtonSize, setNoButtonSize] = useState(1);
   const [yesClicked, setYesClicked] = useState(false);
@@ -21,6 +23,10 @@ const ValentineCard = () => {
 
   const handleYesClick = () => {
     setYesClicked(true);
+    // Navigate to home after showing success message
+    setTimeout(() => {
+      navigate("/home");
+    }, 4000); // 3 second delay to show the success message
   };
 
   const messages = [
@@ -215,9 +221,13 @@ const ValentineCard = () => {
                 You just made me the happiest person alive! 💖
               </p>
 
-              <p className="text-lg text-gray-600 leading-relaxed max-w-xl mx-auto">
+              <p className="text-lg text-gray-600 leading-relaxed max-w-xl mx-auto mb-6">
                 I can't wait to celebrate this Valentine's Day with you. Every
                 moment with you is special, and I'm so grateful you're mine.
+              </p>
+
+              <p className="text-sm text-sakura-600 italic">
+                Taking you to something special in 3 seconds... ✨
               </p>
 
               <div className="mt-8 flex items-center justify-center gap-4">
