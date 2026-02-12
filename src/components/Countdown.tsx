@@ -13,7 +13,7 @@ const Countdown = () => {
   useEffect(() => {
     const calculateTimeLeft = () => {
       // Valentine's Day 2025 - February 14, 2025
-      const valentinesDay = new Date("2025-06-14T00:00:00");
+      const valentinesDay = new Date("2025-01-26T00:00:00");
       const now = new Date();
       const difference = now.getTime() - valentinesDay.getTime();
 

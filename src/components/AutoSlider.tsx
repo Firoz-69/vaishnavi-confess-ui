@@ -1,9 +1,9 @@
 import React, { useState, useEffect } from "react";
 
 // Import your images
-import slide1 from "../assests/slider1.png";
-import slide2 from "../assests/slider2.png";
-import slide3 from "../assests/slider3.png";
+import slide1 from "../assests/slide1a.jpeg";
+import slide2 from "../assests/slide2a.jpeg";
+import slide3 from "../assests/slide3a.jpeg";
 
 const AutoSlider = () => {
   const [currentSlide, setCurrentSlide] = useState(0);

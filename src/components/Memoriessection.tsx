@@ -1,15 +1,15 @@
 import React from "react";
 
 // Import your images
-import moment1 from "../assests/moment1.png";
-import moment2 from "../assests/moment2.png";
+import moment1 from "../assests/sec21.jpeg";
+import moment2 from "../assests/colag1.png";
 
 const MemoriesSection = () => {
   const memories = [
     {
       image: moment1,
       title: "Our First Adventure",
-      date: "March 2024",
+      date: "SA",
       description:
         "The day we explored the city together, laughing at every corner, creating memories that would last forever. Your hand in mine felt like home.",
       tags: ["Adventure", "Laughter", "First Times"],
@@ -17,7 +17,7 @@ const MemoriesSection = () => {
     {
       image: moment2,
       title: "Sunset by the Beach",
-      date: "June 2024",
+      date: "SA",
       description:
         "Watching the sun paint the sky in shades of pink and orange, just like the colors you brought into my life. That moment, I knew you were my forever.",
       tags: ["Sunset", "Romance", "Peace"],

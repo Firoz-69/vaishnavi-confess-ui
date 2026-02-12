@@ -1,4 +1,4 @@
-import bg from "../assests/holding-hands-bg.jpeg";
+import bg from "../assests/hero.jpeg";
 import nameLogoBg from "../assests/BG_LOGO.png";
 
 const HomePage = () => {
