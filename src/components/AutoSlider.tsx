@@ -23,27 +23,28 @@ const AutoSlider = () => {
   const slides = [
     {
       image: slide1,
-      title: "Every Smile You Give",
-      subtitle: "Lights Up My World",
+      title: "The Way You Carry Everything on Your Shoulders",
+      subtitle: "",
       description:
-        "Your smile is the first thing I fell in love with. It has the power to brighten even my darkest days and reminds me why every moment with you is precious.",
-      quote: "You are my sunshine on cloudy days",
+        "You’ve always stepped up like it’s second nature to you.Being the eldest shaped you into someone dependable, even when it feels heavy.Sometimes that seriousness annoys me a little. but it’s also what made me admire you first",
+      quote: "You didn’t just grow up, you grew strong for everyone.",
     },
     {
       image: slide2,
-      title: "The Way You Look At Me",
+      title: "The Softness You Show Your Family",
       subtitle: "Makes Me Feel Alive",
       description:
-        "In your eyes, I see a future filled with love, laughter, and endless possibilities. The way you look at me makes me believe in magic.",
-      quote: "Your eyes tell stories my heart loves to hear",
+        "The way you look after your family melts my heart every single time.Your love for them isn’t loud, but it’s steady and real.Watching you care for them makes me feel safe choosing you.",
+      quote:
+        "A man who loves his family right, will love his partner even better.",
     },
     {
       image: slide3,
-      title: "Our Adventures Together",
-      subtitle: "Create the Best Memories",
+      title: "The Way You See People Without Judgment",
+      subtitle: "Create the Best impression",
       description:
-        "Whether we're exploring new places or just enjoying quiet moments at home, every adventure with you becomes a cherished memory I'll treasure forever.",
-      quote: "Life is better when we're together",
+        "You never rush to label anyone or speak harshly about others.You listen, you understand, you give space.That quiet kindness in you is something rare, and I fell for that deeply.",
+      quote: "Your heart doesn’t criticize it .. understands.",
     },
   ];
 
@@ -144,7 +145,7 @@ const AutoSlider = () => {
                         />
                       </div>
                       {/* Polaroid caption */}
-                      <div className="absolute bottom-6 left-6 right-6 text-center">
+                      <div className="absolute bottom-2 m-1 left-6 right-6 text-center">
                         <p className="font-script text-gray-700 text-2xl">
                           {slide.quote}
                         </p>

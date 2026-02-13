@@ -217,15 +217,6 @@ const ValentineCard = () => {
                 Yay! You said Yes! 🎉
               </h2>
 
-              <p className="text-2xl text-gray-700 font-romantic italic mb-8">
-                You just made me the happiest person alive! 💖
-              </p>
-
-              <p className="text-lg text-gray-600 leading-relaxed max-w-xl mx-auto mb-6">
-                I can't wait to celebrate this Valentine's Day with you. Every
-                moment with you is special, and I'm so grateful you're mine.
-              </p>
-
               <p className="text-sm text-sakura-600 italic">
                 Taking you to something special in 3 seconds... ✨
               </p>

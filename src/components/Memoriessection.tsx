@@ -9,7 +9,7 @@ const MemoriesSection = () => {
     {
       image: moment1,
       title: "Our First Adventure",
-      date: "SA",
+      date: "S💗A",
       description:
         "The day we explored the city together, laughing at every corner, creating memories that would last forever. Your hand in mine felt like home.",
       tags: ["Adventure", "Laughter", "First Times"],
@@ -17,7 +17,7 @@ const MemoriesSection = () => {
     {
       image: moment2,
       title: "Sunset by the Beach",
-      date: "SA",
+      date: "S💗A",
       description:
         "Watching the sun paint the sky in shades of pink and orange, just like the colors you brought into my life. That moment, I knew you were my forever.",
       tags: ["Sunset", "Romance", "Peace"],
