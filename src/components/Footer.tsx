@@ -154,7 +154,7 @@ const Footer = () => {
         <div className="flex flex-col md:flex-row items-center justify-between gap-4">
           {/* Copyright */}
           <p className="text-text-muted text-sm font-light">
-            © 2026 Made with ❤️ For Abi's Mamakutty by Gokul__Siddu
+            © 2026 Made with ❤️ For Abi's Siva by Gokul__Siddu
           </p>
 
           {/* Heart decoration */}
