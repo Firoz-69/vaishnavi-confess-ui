@@ -7,11 +7,13 @@ import LoveMeter from "./components/LoveMeter";
 import MemoriesSection from "./components/Memoriessection";
 import ValentineCard from "./components/ValentineCard";
 import HomePage from "./pages/Home";
+import BackgroundMusic from "./components/BackgroundMusic";
 
 // Home page with all components
 const Home = () => {
   return (
     <div>
+      <BackgroundMusic />
       <HomePage />
       <Countdown />
       <MemoriesSection />
