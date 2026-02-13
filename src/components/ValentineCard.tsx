@@ -1,6 +1,7 @@
 /* eslint-disable react-hooks/purity */
 import React, { useState } from "react";
 import { useNavigate } from "react-router-dom";
+import ring from "../assests/ring.jpeg";
 
 const ValentineCard = () => {
   const navigate = useNavigate();
@@ -26,7 +27,7 @@ const ValentineCard = () => {
     // Navigate to home after showing success message
     setTimeout(() => {
       navigate("/home");
-    }, 4000); // 3 second delay to show the success message
+    }, 1500); // 3 second delay to show the success message
   };
 
   const messages = [
@@ -77,11 +78,14 @@ const ValentineCard = () => {
             {/* Postal Card Container */}
             <div className="relative bg-gradient-to-br from-white to-gray-50 rounded-3xl shadow-2xl overflow-hidden border-4 border-white">
               {/* Stamp */}
-              <div className="absolute top-6 right-6 w-20 h-24 border-4 border-dashed border-sakura-500/30 rounded-lg flex items-center justify-center bg-sakura-500/10">
-                <div className="text-center">
-                  <div className="text-3xl mb-1">💕</div>
-                  <p className="text-xs text-sakura-600 font-semibold">LOVE</p>
-                </div>
+              {/* Stamp */}
+              {/* Stamp */}
+              <div className="absolute top-6 right-6 w-20 h-24 border-4 border-dashed border-sakura-500/30 rounded-lg flex items-center justify-center bg-sakura-500/10 overflow-hidden">
+                <img
+                  src={ring}
+                  alt="Stamp"
+                  className="w-full h-full object-cover"
+                />
               </div>
 
               {/* Postmark */}

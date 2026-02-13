@@ -58,7 +58,7 @@ const Footer = () => {
             <div className="flex items-start gap-4 justify-center md:justify-start">
               {/* Instagram */}
               <a
-                href="https://instagram.com/yourhandle"
+                href="https://instagram.com/abinayaa_sp"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="group relative flex flex-col items-center gap-2 text-text-secondary hover:text-sakura-500 transition-all duration-300"
@@ -80,7 +80,7 @@ const Footer = () => {
 
               {/* WhatsApp */}
               <a
-                href="https://wa.me/1234567890"
+                href="https://wa.me/9025230401"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="group relative flex flex-col items-center gap-2 text-text-secondary hover:text-sakura-500 transition-all duration-300"
@@ -102,7 +102,7 @@ const Footer = () => {
 
               {/* Phone */}
               <a
-                href="tel:+1234567890"
+                href="tel:+9025230401"
                 className="group relative flex flex-col items-center gap-2 text-text-secondary hover:text-sakura-500 transition-all duration-300"
                 title="Call Me"
               >
@@ -129,9 +129,8 @@ const Footer = () => {
             </h3>
             <div className="bg-dark-card border border-sakura-500/20 rounded-xl p-6 space-y-3">
               <p className="text-text-secondary text-sm font-light italic leading-relaxed">
-                "Vaanam parthu kidanthene Mazhayaai vanthu vizhundhaaye Vazhi
-                thunaiyee…. Vazhi thunaiyee…Vannam soozhndha idamellam Vaa vaa
-                oodi thiruvom vaa En thunaiyee… vazhi thunaiyee.. Neeye“
+                "எங்கேயோ பிறந்த என் அன்பே எனைத் தேடி வந்ததே போதும் இனி வாழும்
+                அத்தனை நாளும் மினுக்கும் மினு மினுக்குமே“
               </p>
               <div className="flex items-center gap-2">
                 <div className="h-[1px] w-8 bg-sakura-500"></div>

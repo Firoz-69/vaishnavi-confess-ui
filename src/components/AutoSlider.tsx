@@ -41,7 +41,7 @@ const AutoSlider = () => {
     {
       image: slide3,
       title: "The Way You See People Without Judgment",
-      subtitle: "Create the Best impression",
+      subtitle: "",
       description:
         "You never rush to label anyone or speak harshly about others.You listen, you understand, you give space.That quiet kindness in you is something rare, and I fell for that deeply.",
       quote: "Your heart doesn’t criticize it .. understands.",
