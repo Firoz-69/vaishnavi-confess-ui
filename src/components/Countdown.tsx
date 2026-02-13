@@ -119,8 +119,8 @@ const Countdown = () => {
                   {/* Back - "I" */}
                   <div className="absolute inset-0 backface-hidden rotate-y-180">
                     <div className="bg-gradient-to-br from-sakura-500 to-heart border-2 border-sakura-600 rounded-3xl p-8 text-center h-full flex items-center justify-center">
-                      <div className="text-8xl font-romantic font-bold text-white drop-shadow-lg">
-                        I
+                      <div className="text-5xl font-romantic font-bold text-white drop-shadow-lg">
+                        Counting
                       </div>
                     </div>
                   </div>
@@ -158,7 +158,7 @@ const Countdown = () => {
                   <div className="absolute inset-0 backface-hidden rotate-y-180">
                     <div className="bg-gradient-to-br from-sakura-500 to-heart border-2 border-sakura-600 rounded-3xl p-8 text-center h-full flex items-center justify-center">
                       <div className="text-6xl font-romantic font-bold text-white drop-shadow-lg">
-                        Love
+                        Days
                       </div>
                     </div>
                   </div>
@@ -196,7 +196,7 @@ const Countdown = () => {
                   <div className="absolute inset-0 backface-hidden rotate-y-180">
                     <div className="bg-gradient-to-br from-sakura-500 to-heart border-2 border-sakura-600 rounded-3xl p-8 text-center h-full flex items-center justify-center">
                       <div className="text-7xl font-romantic font-bold text-white drop-shadow-lg">
-                        You
+                        To
                       </div>
                     </div>
                   </div>
@@ -234,7 +234,7 @@ const Countdown = () => {
                   <div className="absolute inset-0 backface-hidden rotate-y-180">
                     <div className="bg-gradient-to-br from-sakura-500 to-heart border-2 border-sakura-600 rounded-3xl p-8 text-center h-full flex items-center justify-center">
                       <div className="text-5xl font-romantic font-bold text-white drop-shadow-lg">
-                        Mamakutty
+                        You
                       </div>
                     </div>
                   </div>

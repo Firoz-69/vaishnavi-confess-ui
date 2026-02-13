@@ -8,19 +8,19 @@ const MemoriesSection = () => {
   const memories = [
     {
       image: moment1,
-      title: "Our First Adventure",
-      date: "S💗A",
+      title: "Our first hello",
+      date: "26th Jan 2025",
       description:
-        "The day we explored the city together, laughing at every corner, creating memories that would last forever. Your hand in mine felt like home.",
-      tags: ["Adventure", "Laughter", "First Times"],
+        "It still feels surreal how all of this started — that first 21-minute call, just two completely different people talking without knowing what we were stepping into. And honestly… I don’t regret it at all. But if I ever got the chance to go back? I’d probably say “no” this time — just to annoy you a little, with the biggest smile on my face.",
+      tags: ["Unplanned", "Curious", "Destined"],
     },
     {
       image: moment2,
-      title: "Sunset by the Beach",
-      date: "S💗A",
+      title: "Just Like That… Married",
+      date: "29th August 2025",
       description:
-        "Watching the sun paint the sky in shades of pink and orange, just like the colors you brought into my life. That moment, I knew you were my forever.",
-      tags: ["Sunset", "Romance", "Peace"],
+        "And then, as the days quietly passed — in between ordinary moments and unnoticed feelings — suddenly, it was our wedding.No grand pause. No warning. Just a soft shift in time… and there we were.Somewhere between conversations and chaos, between misunderstandings and laughter, we crossed a line we didn’t even see — and now, we are husband and wife.",
+      tags: ["Sudden", "Certain", "Eternal"],
     },
   ];
   // Generate random stars
@@ -77,11 +77,11 @@ const MemoriesSection = () => {
     `,
             }}
           >
-            Time With You
+            Our Shared Chapters
           </h2>
           <p className="text-text-secondary text-lg max-w-2xl mx-auto font-light leading-relaxed">
-            Every moment we've shared has been a treasure. Here are some of my
-            favorite memories with you.
+            No matter how many times we stumble, I am happy to begin again —
+            with you, for you, and beside you. Every single time.
           </p>
         </div>
 
@@ -225,7 +225,7 @@ const MemoriesSection = () => {
             <div className="h-[1px] w-16 bg-gradient-to-l from-transparent to-sakura-500"></div>
           </div>
           <p className="mt-6 text-text-muted italic font-light">
-            And there are countless more moments to come...
+            -you felt like home across the distance.
           </p>
         </div>
       </div>

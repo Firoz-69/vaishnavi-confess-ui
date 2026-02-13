@@ -60,11 +60,11 @@ const ConfessionLetter = () => {
                   `,
                 }}
               >
-                A Letter From My Heart
+                A page filled with you.
               </h2>
               <p className="text-text-secondary text-lg font-light max-w-2xl mx-auto leading-relaxed">
-                Yennaku propose yellam panna theriyadhu, munna pinna irundha
-                adjust paniko
+                If pigeons could travel continents, I’d send this by wing… but
+                for now, here it is.
               </p>
             </div>
 
@@ -98,7 +98,7 @@ const ConfessionLetter = () => {
                     💌
                   </div>
                   <p className="text-2xl font-romantic text-sakura-600 italic">
-                    "To My Dearest Partner Sam Akka"
+                    "Please read it fully Siva"
                   </p>
                   <p className="text-text-muted text-sm uppercase tracking-widest">
                     Click to open
@@ -128,7 +128,7 @@ const ConfessionLetter = () => {
 
             {/* Instruction text */}
             <p className="text-text-muted text-sm mt-8 italic animate-pulse">
-              ✨ Click the envelope to reveal my confession ✨
+              ✨ "A little note for you.." ✨
             </p>
           </div>
         ) : (
@@ -144,10 +144,10 @@ const ConfessionLetter = () => {
                 {/* Header */}
                 <div className="text-center border-b-2 border-sakura-500/20 pb-8">
                   <p className="text-sm text-gray-500 uppercase tracking-widest mb-2">
-                    Valentine's Day 2025
+                    Valentine's Day 2026
                   </p>
                   <h3 className="text-4xl md:text-5xl font-romantic font-bold text-gray-800 mb-4">
-                    To My Dearest Love Samantha
+                    -from Somewhere Between India and Germany
                   </h3>
                   <div className="flex items-center justify-center gap-3">
                     <div className="h-[1px] w-12 bg-gradient-to-r from-transparent to-sakura-500"></div>
@@ -165,75 +165,86 @@ const ConfessionLetter = () => {
                 {/* Letter body */}
                 <div className="space-y-6 text-gray-700 leading-relaxed">
                   <p className="text-lg first-letter:text-7xl first-letter:font-romantic first-letter:text-sakura-600 first-letter:float-left first-letter:mr-3 first-letter:leading-none first-letter:mt-1">
-                    Enna Solla Aethu Solla Kannodu Kanpesa Vaarthai Illa
-                    Ennennavo Ullukkulla Vella Sollama En Vetkam Thalla Chinna
-                    Chinna Aasa Ulla Thikki Thikki Pesa Malligapo Vaasam Konjam
-                    Kaathoda Veesa Uthu Uthu Paarka Nenjil Muthu Mutha Verka
-                    Putham Puthu Vaazhka Enna Unnodu Serka
+                    Who would have thought, Two completely different souls,
+                    raised in different worlds, somehow pulled into the same
+                    circle by something invisible.
                   </p>
 
                   <p className="text-lg">
-                    Ennodu Nee Unnodu Naan Ondrodu Naam Ondraagum Naal Ennodu
-                    Nee Unnodu Naan Ondraagum Naal Ennodu Nee Unnodu Naan
-                    Ondrodu Naam Ondraagum Naal Ennodu Nee Unnodu Naan Ondraagum
-                    Naal
+                    You in Germany. Me in India. Miles apart, time zones
+                    apart-yet somehow never too far.
                   </p>
 
                   <p className="text-lg">
-                    Sollaamal Kollamal Nenjodu Kaathal Sera Nenjodu Kaathal Sera
-                    Moocu Muttuthey Ennaalum Ennaalum Kaikorthu Pogum Paathai
-                    Kaikorthu Pogum Paathai Kannil Thondruthey Sollatha Ennangal
-                    Pollatha Aasaigal Unnala Seruthey Bhaaram Kooduthey
+                    It started with simple conversations.Then longer ones.Then
+                    voice calls that stretched into nights we didn’t want to
+                    end.
                   </p>
 
                   <p className="text-lg">
-                    Thedatha Thedalgal Kaanaatha Kaatchigal Unnodu Kaabathil
-                    Neram Poguthey Chinna Chinna Aasa Ulla Thikki Thikki Pesa
-                    Malligapø Vaasam Kønjam Kaathøda Veesa Uthu Uthu Paarka
-                    Nenjil Muthu Mutha Verka Putham Puthu Vaazhka Ènna Unnødu
-                    Šerka
+                    We didn’t even realize when it stopped being “just
+                    talking.-We didn’t notice when comfort turned into
+                    attachment,and attachment quietly turned into something
+                    deeper.
                   </p>
 
                   <p className="text-lg">
-                    Ènnødu Nee Unnødu Naan Ondrødu Naam Ondraagum Naal Ènnødu
-                    Nee Unnødu Naan Ondraagum Naal Ènnødu Nee Unnødu Naan
-                    Ondrødu Naam Ondraagum Naal Ènnødu Nee Unnødu Naan Ondragum
-                    Naal
+                    In the middle of all this…you never tried to cage me.You
+                    never rushed me.You gave me space -and still chose to stay.
+                  </p>
+                  <p className="text-lg">
+                    Thank you for that.For respecting my silence. For letting me
+                    grow into my feelings instead of forcing them.
+                  </p>
+                  <p className="text-lg">
+                    In the middle of all this…you never tried to cage me.You
+                    never rushed me.You gave me space -and still chose to stay.
+                  </p>
+                  <p className="text-lg">
+                    You have no idea how deeply I admire you. Your sense of
+                    responsibility -the way you carry so much without
+                    complaining. Your love for your family-steady, protective,
+                    real. Your rare ability to see people without judging them.
+                  </p>
+                  <p className="text-lg">
+                    And in the middle of all this,can I ask you something
+                    gently?
+                  </p>
+                  <p className="text-lg">I admire you in so many ways.</p>
+                  <p className="text-lg">But sometimes I quietly wonder…</p>
+
+                  <p className="text-lg">
+                    Why can’t you love me the way you love others? With that
+                    same openness. That same ease.
+                  </p>
+
+                  <p className="text-lg">
+                    I’m not asking for grand gestures. Not asking you to become
+                    someone you’re not. Just maybe, as a little Valentine’s Day
+                    gift -could you try? Only if you truly want to.
+                  </p>
+
+                  <p className="text-lg">
+                    And if your heart doesn’t feel the same way, then maybe we
+                    should sit and talk about it honestly. Not with pain. Not
+                    with ego. But with clarity, and happy hearts.
+                  </p>
+
+                  <p className="text-lg">
+                    Because no matter what,despite all these feelings, I respect
+                    you deeply.And that will never change.
                   </p>
 
                   {/* Special highlight section */}
                   <div className="bg-gradient-to-br from-sakura-500/10 to-heart/10 border-l-4 border-sakura-500 p-6 rounded-r-xl my-8">
                     <p className="text-xl font-romantic italic text-gray-800">
-                      Nii.. nidhanam ah ille , Un kaal Taraile padale... First
-                      Uh Nillu , Approm Vandu Sollu
+                      I like you. More than I planned to. More than I expected
+                      to.
                     </p>
                   </div>
-
-                  <p className="text-lg">
-                    This Valentine's Day, I want you to know that you are
-                    cherished beyond measure. You are loved more deeply than
-                    words can express. You are my everything, and I am so
-                    incredibly grateful that I get to call you mine.
-                  </p>
-
-                  <p className="text-lg font-semibold text-gray-800">
-                    Thank you for being you. Thank you for choosing me. Thank
-                    you for this beautiful love we share.
-                  </p>
                 </div>
 
                 {/* Closing */}
-                <div className="text-center pt-8 border-t-2 border-sakura-500/20 space-y-4">
-                  <p className="text-2xl font-romantic text-sakura-600 italic">
-                    Forever yours,
-                  </p>
-                  <p className="text-3xl font-romantic font-bold text-gray-800">
-                    With all my love ❤️
-                  </p>
-                  <p className="text-xl font-script text-sakura-600 mt-6">
-                    Gokul__Siddu
-                  </p>
-                </div>
 
                 {/* Decorative footer */}
                 <div className="flex justify-center gap-2 pt-8">
