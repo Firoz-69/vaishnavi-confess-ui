@@ -3,5 +3,5 @@ import react from "@vitejs/plugin-react";
 
 export default defineConfig({
   plugins: [react()],
-  base: "/abi-confess-ui/", // Add this line
+  base: "/vaishnavi-confess-ui/", // Add this line
 });

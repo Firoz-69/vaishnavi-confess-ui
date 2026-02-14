@@ -1,5 +1,5 @@
 import bg from "../assests/hero.jpeg";
-import nameLogoBg from "../assests/logv3.png";
+import nameLogoBg from "../assests/vlogo-removebg-preview.png";
 
 const HomePage = () => {
   return (
@@ -63,10 +63,10 @@ const HomePage = () => {
     `,
           }}
         >
-          Lets write our forever.
+          Dreaming our forever together..
         </h1>
         <p className="max-w-2xl text-sm md:text-base text-white/80 mb-12 tracking-wide leading-relaxed font-light">
-          You are the bane of my existence… and the object of all my desires
+          My heart chose you — and it never looked back.
         </p>
         <button className="border border-white/50 px-8 py-3 text-sm tracking-[0.2em] uppercase hover:bg-white hover:text-black transition-all duration-300 rounded-sm font-light">
           Love More

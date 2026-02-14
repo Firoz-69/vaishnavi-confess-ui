@@ -165,7 +165,8 @@ const ValentineCard = () => {
                 {/* Footer decoration */}
                 <div className="mt-12 pt-8 border-t-2 border-sakura-500/20">
                   <p className="text-center text-gray-500 text-sm italic">
-                    "Every love story is beautiful, but ours is my favorite" 💌
+                    "Some love stories are written in the stars — ours was
+                    written in destiny." 💌
                   </p>
                 </div>
               </div>

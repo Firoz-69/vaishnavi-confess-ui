@@ -60,11 +60,10 @@ const ConfessionLetter = () => {
                   `,
                 }}
               >
-                A page filled with you.
+                This page holds all my heart…
               </h2>
               <p className="text-text-secondary text-lg font-light max-w-2xl mx-auto leading-relaxed">
-                If pigeons could travel continents, I’d send this by wing… but
-                for now, here it is.
+                I wish it could travel the miles and reach you instantly.
               </p>
             </div>
 
@@ -98,7 +97,7 @@ const ConfessionLetter = () => {
                     💌
                   </div>
                   <p className="text-2xl font-romantic text-sakura-600 italic">
-                    "Please read it fully Siva"
+                    "Please read it fully "
                   </p>
                   <p className="text-text-muted text-sm uppercase tracking-widest">
                     Click to open
@@ -147,7 +146,7 @@ const ConfessionLetter = () => {
                     Valentine's Day 2026
                   </p>
                   <h3 className="text-4xl md:text-5xl font-romantic font-bold text-gray-800 mb-4">
-                    -from Somewhere Between India and Germany
+                    -from My Heart to Yours
                   </h3>
                   <div className="flex items-center justify-center gap-3">
                     <div className="h-[1px] w-12 bg-gradient-to-r from-transparent to-sakura-500"></div>
@@ -165,74 +164,47 @@ const ConfessionLetter = () => {
                 {/* Letter body */}
                 <div className="space-y-6 text-gray-700 leading-relaxed">
                   <p className="text-lg first-letter:text-7xl first-letter:font-romantic first-letter:text-sakura-600 first-letter:float-left first-letter:mr-3 first-letter:leading-none first-letter:mt-1">
-                    Who would have thought, Two completely different souls,
-                    raised in different worlds, somehow pulled into the same
-                    circle by something invisible.
+                    We first met on 9th June 2021, and I never imagined how much
+                    my life would change. Growing up as a single child, I often
+                    felt alone, closed off within my four walls, unable to share
+                    my feelings even with my parents. I was introverted, quiet,
+                    and only comfortable with a few people — but then you came
+                    into my life, and everything shifted. God sent me happiness
+                    in the form of you.
                   </p>
 
                   <p className="text-lg">
-                    You in Germany. Me in India. Miles apart, time zones
-                    apart-yet somehow never too far.
+                    From that day, every moment with you has been unforgettable.
+                    I explored new places with you, laughed endlessly, and even
+                    experienced my first flight — a surprise you arranged that
+                    melted my heart completely. You took me to your home, where
+                    I felt loved and cared for, just like with my own family,
+                    and your family welcomed me with open hearts. Every little
+                    gesture made me feel incredibly blessed.
                   </p>
 
                   <p className="text-lg">
-                    It started with simple conversations.Then longer ones.Then
-                    voice calls that stretched into nights we didn’t want to
-                    end.
+                    Of course, we have our fights, annoy each other, and
+                    challenge one another daily — but our love always grows
+                    stronger after every quarrel. The only thing that sometimes
+                    hurts is when trust falters. I am completely loyal to you,
+                    and my heart always chooses you, yet when doubt enters, it
+                    cuts deep. I hope you can understand my heart a little more
+                    because I always want us to trust each other completely.
                   </p>
 
                   <p className="text-lg">
-                    We didn’t even realize when it stopped being “just
-                    talking.-We didn’t notice when comfort turned into
-                    attachment,and attachment quietly turned into something
-                    deeper.
+                    Even with everything, my love for you keeps growing every
+                    single day. Every memory, every laugh, every shared moment
+                    feels magical, and I cannot wait to make more memories with
+                    you.
                   </p>
 
                   <p className="text-lg">
-                    In the middle of all this…you never tried to cage me.You
-                    never rushed me.You gave me space -and still chose to stay.
-                  </p>
-                  <p className="text-lg">
-                    Thank you for that.For respecting my silence. For letting me
-                    grow into my feelings instead of forcing them.
-                  </p>
-                  <p className="text-lg">
-                    In the middle of all this…you never tried to cage me.You
-                    never rushed me.You gave me space -and still chose to stay.
-                  </p>
-                  <p className="text-lg">
-                    You have no idea how deeply I admire you. Your sense of
-                    responsibility -the way you carry so much without
-                    complaining. Your love for your family-steady, protective,
-                    real. Your rare ability to see people without judging them.
-                  </p>
-                  <p className="text-lg">
-                    And in the middle of all this,can I ask you something
-                    gently?
-                  </p>
-                  <p className="text-lg">I admire you in so many ways.</p>
-                  <p className="text-lg">But sometimes I quietly wonder…</p>
-
-                  <p className="text-lg">
-                    Why can’t you love me the way you love others? With that
-                    same openness. That same ease.
-                  </p>
-
-                  <p className="text-lg">
-                    I’m not asking for grand gestures. Not asking you to become
-                    someone you’re not. Just maybe, as a little Valentine’s Day
-                    gift -could you try? Only if you truly want to.
-                  </p>
-
-                  <p className="text-lg">
-                    And if your heart doesn’t feel the same way, then maybe we
-                    should sit and talk about it honestly. Not with pain. Not
-                    with ego. But with clarity, and happy hearts.
-                  </p>
-
-                  <p className="text-lg">
-                    Because no matter what,despite all these feelings, I respect
-                    you deeply.And that will never change.
+                    Happy Valentine’s Day, my love. I can’t wait for the day we
+                    celebrate as husband and wife — and I know our love story
+                    will continue to be as beautiful, playful, and extraordinary
+                    as it has always been.
                   </p>
 
                   {/* Special highlight section */}

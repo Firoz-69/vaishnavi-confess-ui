@@ -1,9 +1,9 @@
 import React, { useState, useEffect } from "react";
 
 // Import your images
-import slide1 from "../assests/slide1a.jpeg";
-import slide2 from "../assests/slide2a.jpeg";
-import slide3 from "../assests/slide3a.jpeg";
+import slide1 from "../assests/sli1.jpeg";
+import slide2 from "../assests/sli2.jpeg";
+import slide3 from "../assests/vsli3.jpeg";
 
 const AutoSlider = () => {
   const [currentSlide, setCurrentSlide] = useState(0);
@@ -23,28 +23,27 @@ const AutoSlider = () => {
   const slides = [
     {
       image: slide1,
-      title: "The Way You Carry Everything on Your Shoulders",
+      title: "The Way You Care",
       subtitle: "",
       description:
-        "You’ve always stepped up like it’s second nature to you.Being the eldest shaped you into someone dependable, even when it feels heavy.Sometimes that seriousness annoys me a little. but it’s also what made me admire you first",
-      quote: "You didn’t just grow up, you grew strong for everyone.",
+        "You’ve always loved and cared like it comes naturally to you. From day one, I noticed how deeply you love me — more than anyone else ever could, even more than my own family. You take care of me, protect me, and make me feel like the most special person in the world. What made me fall for you first is how you respect everyone around you, and I hope one day you’ll be the perfect son for my parents, just like you are the perfect partner for me.",
+      quote: "",
     },
     {
       image: slide2,
-      title: "The Softness You Show Your Family",
-      subtitle: "Makes Me Feel Alive",
+      title: "Love That Comforts Me",
+      subtitle: "",
       description:
-        "The way you look after your family melts my heart every single time.Your love for them isn’t loud, but it’s steady and real.Watching you care for them makes me feel safe choosing you.",
-      quote:
-        "A man who loves his family right, will love his partner even better.",
+        "One of the things I love most about you is how much you’ve grown. Earlier, even small frustrations could hurt me, and it wasn’t always easy — but now, you compromise, apologize first, and do everything to make me happy. No matter the fight or the challenge, you stand by my side through every up and down. You’ve become my biggest supporter, cheering me on in every achievement, and I can’t imagine my life without you",
+      quote: "",
     },
     {
       image: slide3,
-      title: "The Way You See People Without Judgment",
+      title: "All Your Efforts, My Heart",
       subtitle: "",
       description:
-        "You never rush to label anyone or speak harshly about others.You listen, you understand, you give space.That quiet kindness in you is something rare, and I fell for that deeply.",
-      quote: "Your heart doesn’t criticize it .. understands.",
+        "One of the things I love most about you is how much you respect my words. If I ask you not to do something, you listen — and the care you show in every effort melts my heart. When I joined college in Chennai, my first time stepping out of home, you came along to drop me off and even took the long journey back just to make sure I was safe. You travel so far, meet me every month, and still manage your remote work — all these little things make me feel like a queen, protected and cherished. You are truly my everything.",
+      quote: "",
     },
   ];
 
@@ -116,7 +115,7 @@ const AutoSlider = () => {
             Why I Love You
           </span>
           <h2 className="text-5xl md:text-6xl font-romantic font-bold text-sakura-700">
-            Reasons My Heart Chose You
+            Why I Can’t Stop Loving You
           </h2>
         </div>
 
