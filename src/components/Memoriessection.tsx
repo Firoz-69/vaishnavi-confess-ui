@@ -2,25 +2,25 @@ import React from "react";
 
 // Import your images
 import moment1 from "../assests/sec21.jpeg";
-import moment2 from "../assests/colag1.png";
+import moment2 from "../assests/memo1.jpeg";
 
 const MemoriesSection = () => {
   const memories = [
     {
       image: moment1,
-      title: "Our first hello",
-      date: "26th Jan 2025",
+      title: "Destined To Meet",
+      date: "9th June 2021",
       description:
-        "It still feels surreal how all of this started — that first 21-minute call, just two completely different people talking without knowing what we were stepping into. And honestly… I don’t regret it at all. But if I ever got the chance to go back? I’d probably say “no” this time — just to annoy you a little, with the biggest smile on my face.",
-      tags: ["Unplanned", "Curious", "Destined"],
+        "I didn’t even know you back then, but the moment we met online, it felt like destiny. I was the only child, often feeling alone, yet you made every day brighter and unforgettable. Without even seeing each other’s faces, I proposed to you — and thinking of it now melts my heart every time. Every day since, I’ve fallen in love with you a little more, and I can’t imagine life without you.",
+      tags: ["Unexpected", "Bold", "Meant-to-be"],
     },
     {
       image: moment2,
-      title: "Just Like That… Married",
-      date: "29th August 2025",
+      title: "Finally… We Met",
+      date: "9th September 2023",
       description:
-        "And then, as the days quietly passed — in between ordinary moments and unnoticed feelings — suddenly, it was our wedding.No grand pause. No warning. Just a soft shift in time… and there we were.Somewhere between conversations and chaos, between misunderstandings and laughter, we crossed a line we didn’t even see — and now, we are husband and wife.",
-      tags: ["Sudden", "Certain", "Eternal"],
+        "And then, as the days quietly passed — after three long years of being apart — suddenly, I met you in person for the first time at SRM College. I was nervous, unsure of how to even talk to you, but you made me feel completely comfortable, and that day became unforgettable. From the very first spark, every weekend became something I eagerly waited for, just to see you and spend time together. We’ve had our fights and moments apart, and I’ve cried missing you, but somehow, every day I love you a little more, and every memory with you feels magical.",
+      tags: ["Nervous", "Spark", "Forever"],
     },
   ];
   // Generate random stars
@@ -77,11 +77,11 @@ const MemoriesSection = () => {
     `,
             }}
           >
-            Our Shared Chapters
+            Our Shared Moments
           </h2>
           <p className="text-text-secondary text-lg max-w-2xl mx-auto font-light leading-relaxed">
-            No matter how many times we stumble, I am happy to begin again —
-            with you, for you, and beside you. Every single time.
+            No matter how many times we fall, I love beginning again — with you,
+            for you, and by your side.
           </p>
         </div>
 
@@ -225,7 +225,7 @@ const MemoriesSection = () => {
             <div className="h-[1px] w-16 bg-gradient-to-l from-transparent to-sakura-500"></div>
           </div>
           <p className="mt-6 text-text-muted italic font-light">
-            -you felt like home across the distance.
+            -Across the distance, my heart found you.
           </p>
         </div>
       </div>

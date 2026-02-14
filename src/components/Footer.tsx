@@ -1,6 +1,6 @@
 /* eslint-disable react-hooks/purity */
 import React from "react";
-import nameLogo from "../assests/BG_LOGO.png";
+import nameLogo from "../assests/vlogo-removebg-preview.png";
 
 const Footer = () => {
   return (
