@@ -42,11 +42,12 @@ const Footer = () => {
               />
             </div>
             <p className="text-text-secondary text-sm leading-relaxed font-light">
-              Oii.. Siva Hah Happy Valentine's Day yen Husband munnadi 1st time
-              confess pandren Ipidi Hm.. Unne kandipudikirathiku 25 varisham
-              ayirichi Ithiki melale enakku wait pannelathu so takinu solliren
-              Naa unne … love panra Mm? aa.. Aahhh! Neeyum takinu sollenum ndu
-              avesiyam ille Konjem time edithiko Wait panre…
+              Happy Valentine’s Day Surya ❤️ Eppati dhaka manam Valentine’s Day
+              kalisi celebrate cheskoledhu, kani next year nunchi every year
+              manam wife and husband laga okate dhaggara undi celebrate
+              cheskovali ani korukuntunna. Eppatidhaka nenu emaina ninnu badha
+              petti unte nijanga sorry, nuvvu eppatiki naa pranam.I love you so
+              much and ninnu chala miss avtunna ❤️
             </p>
           </div>
 
@@ -58,7 +59,7 @@ const Footer = () => {
             <div className="flex items-start gap-4 justify-center md:justify-start">
               {/* Instagram */}
               <a
-                href="https://instagram.com/abinayaa_sp"
+                href="https://instagram.com/pretty_girl_9703"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="group relative flex flex-col items-center gap-2 text-text-secondary hover:text-sakura-500 transition-all duration-300"
@@ -80,7 +81,7 @@ const Footer = () => {
 
               {/* WhatsApp */}
               <a
-                href="https://wa.me/9025230401"
+                href="https://wa.me/7989360122"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="group relative flex flex-col items-center gap-2 text-text-secondary hover:text-sakura-500 transition-all duration-300"
@@ -102,7 +103,7 @@ const Footer = () => {
 
               {/* Phone */}
               <a
-                href="tel:+9025230401"
+                href="tel:+7989360122"
                 className="group relative flex flex-col items-center gap-2 text-text-secondary hover:text-sakura-500 transition-all duration-300"
                 title="Call Me"
               >
@@ -129,8 +130,10 @@ const Footer = () => {
             </h3>
             <div className="bg-dark-card border border-sakura-500/20 rounded-xl p-6 space-y-3">
               <p className="text-text-secondary text-sm font-light italic leading-relaxed">
-                "எங்கேயோ பிறந்த என் அன்பே எனைத் தேடி வந்ததே போதும் இனி வாழும்
-                அத்தனை நாளும் மினுக்கும் மினு மினுக்குமே“
+                "ఏనాడో రాసుండేలే కనుకే నీ తోడయ్యాలే ఈ జన్మకు నాకు ఇంకేం కావాలె
+                చిరు నవ్వుల తిరణాల్లాంటి నీ ప్రేమను చవి చూశాలే ఈ జన్మకు నాకు
+                ఇంకేం కావాలె ఉంటాలే ఉంటాలే నీ వెంటే ఉంటాలే ఏనాడైనా ఎప్పటికైనా
+                నీతో ఉంటాలే“
               </p>
               <div className="flex items-center gap-2">
                 <div className="h-[1px] w-8 bg-sakura-500"></div>
@@ -154,7 +157,7 @@ const Footer = () => {
         <div className="flex flex-col md:flex-row items-center justify-between gap-4">
           {/* Copyright */}
           <p className="text-text-muted text-sm font-light">
-            © 2026 Made with ❤️ For Abi's Siva by Gokul__Siddu
+            © 2026 For My Surya, With Love – Yours Forever ❤️
           </p>
 
           {/* Heart decoration */}
