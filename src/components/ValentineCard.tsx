@@ -1,7 +1,7 @@
 /* eslint-disable react-hooks/purity */
 import React, { useState } from "react";
 import { useNavigate } from "react-router-dom";
-import ring from "../assests/ring.jpeg";
+import ring from "../assests/stamp.jpeg";
 
 const ValentineCard = () => {
   const navigate = useNavigate();
